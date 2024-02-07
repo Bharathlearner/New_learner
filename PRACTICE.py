@@ -51,3 +51,4 @@ for row_data in data:
 
 file_name = 'data.xlsx'
 wb.save(file_name)
+wb.save(file_script)

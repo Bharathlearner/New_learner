@@ -151,3 +151,5 @@ df10
 sns.set_theme(style="darkgrid")
 
 sns.lineplot(x='timestamp', y='quote.USD.price', data=df10)
+sns.lineplot(x='timestamp', y='quote.USD.price', data=df9)
+sns.lineplot(x='timestamp', y='quote.USD.price', data=df8)
